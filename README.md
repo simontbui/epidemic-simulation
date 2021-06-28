@@ -1,1 +1,3 @@
-# epidemic-simulation
+# Monte Carlo Simulation of an Epidemic within a Closed System
+
+Here, I implement a Python class that maintains and update a system state for a Monte Carlo simulation for an epidemic. This allows for analyses and evaluations on epidemic severity, projected duration of an epidemic, and more. In the accompanying ipynb file, you will find the code, some of the mentioned analyses, as well as validity testing on the simulation model itself. Future works will include a visualization of the system state progression on a daily basis as well as increased probabilistic sophistication (e.g. non-constant initialization parameters).
